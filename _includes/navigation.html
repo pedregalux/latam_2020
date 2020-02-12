@@ -1,4 +1,7 @@
 <nav>
-  <a href="/" {% if page.url == "/" %}style="color: gray;"{% endif %}>Inicio</a>
-  <a href="/latam2020.html" {% if page.url == "/latam2020.html" %}style="color: gray;"{% endif %}>Sobre el Proyecto</a>
+  {% for item in site.data.navigation %}
+    <a href="{{ item.link }}" {% if page.url == item.link %}style="color: gray;"{% endif %}>
+      {{ item.name }}
+    </a>
+  {% endfor %}
 </nav>
