@@ -9,8 +9,8 @@ Este proyecto es un requisito para postular a un trabajo en CI. Es un sitio simp
 Este año 2020 tendremos las siguientes elecciones en el continente latinoamericano:
 
 - Chile: 
-	- El 2 de abril se decidirá en un Plebiscito Constituyente el mecanismo para reemplazar la constitución vigente y luego si gana la opción 'Acepto' para crear una nueva constitución, se harán elecciones para elegir a l@s constituyentes. 
-	- El 27 de octubre además se realizará la elección de autoridades locales, es decir gobernadores(as), alcaldes(as) y concejales(as). 
+	- El 26 de abril se decidirá en un Plebiscito el mecanismo para reemplazar la constitución vigente y luego si gana la opción 'Acepto' para crear una nueva constitución, se harán elecciones para elegir a l@s constituyentes. 
+	- El 25 de octubre además se realizará la elección de autoridades locales, es decir gobernadores(as), alcaldes(as) y concejales(as). 
 	- También en Chile se llevarán a cabo el 7 de junio las elecciones primarias para candidatos a Gobernadores(as) y Alcaldes(as).
 
 - República Dominicana:
