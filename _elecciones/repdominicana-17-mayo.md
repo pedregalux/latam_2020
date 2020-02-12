@@ -1,4 +1,5 @@
 ---
+layout: eleccion
 pais: República Dominicana
 fecha: Domingo 17 de Mayo de 2020
 evento: Elecciones Generales de la República Dominicana de 2020

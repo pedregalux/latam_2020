@@ -1,4 +1,5 @@
 ---
+layout: eleccion
 pais: Chile
 fecha: Domingo 25 de Octubre de 2020
 evento: Elecciones Municipales de Chile de 2020

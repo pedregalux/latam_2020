@@ -1,4 +1,5 @@
 ---
+layout: eleccion
 pais: Perú
 fecha: Domingo 26 de Enero de 2020
 eleccion: Todos los parlamentarios que forman el Congreso Nacional.

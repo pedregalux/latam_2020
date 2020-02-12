@@ -1,4 +1,5 @@
 ---
+layout: eleccion
 pais: Venezuela
 fecha: Domingo 06 de Diciembre de 2020
 evento: Elecciones Parlamentarias de Venezuela de 2020

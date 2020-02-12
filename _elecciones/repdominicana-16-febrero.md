@@ -1,4 +1,5 @@
 ---
+layout: eleccion
 pais: República Dominicana
 fecha: Domingo 16 de Febrero de 2020
 evento: Elecciones municipales de la República Dominicana de 2020

@@ -1,4 +1,5 @@
 ---
+layout: eleccion
 pais: Chile
 fecha: Jueves 26 de Abril de 2020
 evento: Plebiscito Nacional de Chile de 2020
