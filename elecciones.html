@@ -8,7 +8,7 @@ title: Elecciones América Latina 2020
   {% for eleccion in site.elecciones %}
     <li>
       <b>{{ eleccion.pais }} - {{ eleccion.evento }} - {{ eleccion.fecha }}</b>
-      <a href="/latam_2020/{{ eleccion.url }}">Ver Más Información</a>
+      <a href="/latam_2020{{ eleccion.url }}">Ver Más Información</a>
     </li>
   {% endfor %}
 </ul>
