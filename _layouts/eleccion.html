@@ -1,9 +1,30 @@
 ---
 layout: default
 ---
+<hr>
 <h3>{{ page.pais }}</h3>
 <h5>{{ page.fecha }}</h5>
 <h5>{{ page.evento }}</h5>
 <h5>{{ page.eleccion }}</h5>
 Más Información: <a href="{{ page.link }}">{{ page.link }}</a>
+
+
+<hr>
+
+<h5>Candidatos a los diferentes cargos:</h5>
+<br>
+
+{% for candidato in site.data.candidatos %}
+  {% if candidato.pais == page.pais %}
+  <p>Cargo: {{ candidato.cargo }} 
+  <p>Nombre: {{ candidato.nombre }}
+  <p>Partido o Coalición: {{ candidato.partido }}
+  <p><a href="{{ candidato.link }}">Más Información</a>
+  	<br>
+----
+<br>
+  {% endif %}
+{% endfor %}
+
+
 
