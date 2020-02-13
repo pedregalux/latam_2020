@@ -1,8 +1,8 @@
 - name: Inicio
   link: /
 - name: Sobre Latam2020
-  link: /latam2020.html
+  link: /latam_2020/latam2020.html
 - name: Noticias
-  link: /noticias.html
+  link: /latam_2020/noticias.html
 - name: Elecciones Latam 2020
-  link: /elecciones.html
+  link: /latam_2020/elecciones.html
